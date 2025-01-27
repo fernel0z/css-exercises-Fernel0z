@@ -1,0 +1,14 @@
+
+.blank{
+    background-color:black;
+    color: white;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blank, .yellow{
+    font-size: 28px;
+    font-family: Helvetica, "Times New roman", sans-serif;
+}
